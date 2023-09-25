@@ -12,7 +12,7 @@ lifecycle:
     commands:
     - bash lifecycle/upgrade.sh
 metadata:
-  organisation-id: onp
+  organisation-id: demobank
   pattern-categories:
   - Other
   pattern-description: BaaS Platform Provider initiates card-related claims
